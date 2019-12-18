@@ -2,6 +2,6 @@
 ---
 ### You...
 ---
-## [go and pet the shark.]()   
+## [go and pet the shark.](Pet/Nothing.md)   
 or   
-## [go and find meat.]()
+## [go and find meat.](Meat/Storage)
