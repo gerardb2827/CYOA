@@ -4,4 +4,4 @@
 ---
 ## [go and pet the shark.](Pet/Nothing.md)   
 or   
-## [go and find meat.](Meat/Storage)
+## [go and find meat.](Meat/Storage.md)
