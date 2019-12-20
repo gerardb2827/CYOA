@@ -3,6 +3,6 @@
 ---
 ## You decide to...
 ---
-### [give the shark fish meat]()   
+### [give the shark fish meat](Fish/Meathand.md)   
 or   
-### [give the shark plant food]()
+### [give the shark plant food](Plant/Plantend.md)
