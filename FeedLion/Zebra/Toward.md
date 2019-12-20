@@ -3,6 +3,6 @@
 ---
 ## You decide to...   
 --- 
-[run for your life.](../Grass/Friends/Lick.md)
+[run for your life.](../Grass/Friends/Lick.md)   
 or   
 [toss the meat back at the lions](Alone/End.md)
